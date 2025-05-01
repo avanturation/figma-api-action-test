@@ -1,6 +1,6 @@
 # figma-api-action-test
 
-![FUCKYOUFIGMAUTHINKURADOBEBUTURNOT](https://cdn.discordapp.com/attachments/1297552266081075223/1367590281058189464/Frame_2872.png?ex=68152333&is=6813d1b3&hm=e64b61adaf07d0d02dd89eede028ac9f54b2ca3e117def6da9f4169c07e00b07&format=webp&quality=lossless&width=2106&height=2106)
+![FUCKYOUFIGMAUTHINKURADOBEBUTURNOT](https://raw.githubusercontent.com/avanturation/figma-api-action-test/main/cover.png)
 
 ## Run
 
