@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+      onmessage = (event) => {
+        const msg = event.data.pluginMessage;
+        if (msg.type === 'save') {
+          const blob = new Blob([msg.content], { type: 'application/json' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = msg.name;
+          a.click();
+        }
+      };
+    </script>
+  </body>
+</html>

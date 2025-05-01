@@ -2,6 +2,8 @@
 
 ![FUCKYOUFIGMAUTHINKURADOBEBUTURNOT](https://raw.githubusercontent.com/avanturation/figma-api-action-test/main/cover.png)
 
+> 피그마는 돈미새라 API 못 써요, 그래서 플러그인을 대충 PoC처럼 만들었어요
+
 ## Run
 
 ```bash
